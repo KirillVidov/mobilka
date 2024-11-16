@@ -1,0 +1,7 @@
+{
+  "name": "mobilka",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
